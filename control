@@ -1,5 +1,5 @@
-Package: com.shemeshapps.hingepp
-Name: Hinge++
+Package: com.shemeshapps.chatterforhinge
+Name: Chatter for Hinge
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
