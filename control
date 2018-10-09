@@ -1,0 +1,9 @@
+Package: com.shemeshapps.hingepp
+Name: Hinge++
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Have Hinge save your chat when you leave the conversation
+Maintainer: ShemeshApps
+Author: ShemeshApps
+Section: Tweaks
